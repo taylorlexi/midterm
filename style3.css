@@ -1,0 +1,22 @@
+img {
+	height:400px;
+	width:400;
+	border:10px pink;
+	border-radius:20px;
+	margin-top:10%;
+	background:pink;
+}
+
+p{
+	color:black;
+	font-size:40px;
+	font-family:'Anton';
+	text-align:center;
+	background:pink;
+}
+h2{
+	font-size:110px;
+font-family: 'Anton', sans-serif;
+padding:35px;
+background:pink;
+}

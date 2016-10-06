@@ -1,0 +1,58 @@
+header {
+	height:400px;
+	width:350;
+	border:15px white;
+	border-radius:20px;
+background:url("http://www.greendiary.com/wp-content/uploads/2012/07/newspaper-dress21_ZVBNV_24429.jpg"); 
+text-align:center;
+font-size:200px;
+font-family: 'Anton', sans-serif;
+}
+
+a:hover {
+color:red;
+}
+
+h1 {
+	padding-top: 90px;
+}
+h5{
+	background:pink;
+	font-size:60px;
+	font-family:'Anton', sans-serif;
+	text-align: left
+}
+
+ul{
+	background: pink;
+	padding: 25px;
+	font-size:16px;
+	font-family:'Anton', sans-serif;
+	text-align: center
+
+}
+
+ol{
+	background: pink;
+	padding: 25px;
+	font-size:25px;
+	font-family:'Anton', sans-serif;
+	text-align: left
+}
+
+ul li {
+	display: inline;
+	margin:50px;
+}
+
+ol li{
+	display:list-item;
+	margin:50px;	
+}
+.black-title{
+	color:black;
+}
+.container{
+	width:50%;
+	margin:0 auto;
+}
